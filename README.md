@@ -1,1 +1,1 @@
-# sentiment_analysis_1
+# SELF_PROJECT
